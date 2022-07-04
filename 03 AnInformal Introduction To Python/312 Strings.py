@@ -2,8 +2,8 @@
 '"Yes," they said.'
 '"Isn\'t," they said.'
 
-'C:\some\name'
-r'C:\some\name'
+'C:\some\name' # \n make a new line
+r'C:\some\name' # \n dont make new line
 
 # \ clear empty lines
 print("""\
