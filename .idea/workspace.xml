@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df051559-454a-4e58-8bf5-24ed9208675f" name="Changes" comment="487">
+    <list default="true" id="df051559-454a-4e58-8bf5-24ed9208675f" name="Changes" comment="Add 09 Classes">
+      <change afterPath="$PROJECT_DIR$/09 Classes/935 Classes and instance variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 Data structures/550 Dictionaris.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 Data structures/550 Dictionaris.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657344054051</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add 09 Classes">
+      <created>1657345344149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657345344149</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="483 Special parameters" />
     <MESSAGE value="487" />
-    <option name="LAST_COMMIT_MESSAGE" value="487" />
+    <MESSAGE value="Add 09 Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 09 Classes" />
   </component>
 </project>
