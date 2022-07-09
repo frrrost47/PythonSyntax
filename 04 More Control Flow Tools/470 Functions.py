@@ -63,7 +63,7 @@ print(list)
 def cheeseshop(kind, *arguments, **keywords):
     print("kind = ", kind)
     for arg in arguments:
-        print(arg)
+        print('arguments =', arg)
     print("-" * 40)
     for key, value in keywords.copy().items():
         print(key, ":", value)
