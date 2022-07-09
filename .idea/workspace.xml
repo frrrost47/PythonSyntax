@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df051559-454a-4e58-8bf5-24ed9208675f" name="Changes" comment="Add 09 Classes">
-      <change afterPath="$PROJECT_DIR$/09 Classes/935 Classes and instance variables.py" afterDir="false" />
+    <list default="true" id="df051559-454a-4e58-8bf5-24ed9208675f" name="Changes" comment="Done lirning main themes">
+      <change afterPath="$PROJECT_DIR$/Total.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657345344149</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done lirning main themes">
+      <created>1657347528476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657347528476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +103,7 @@
     <MESSAGE value="483 Special parameters" />
     <MESSAGE value="487" />
     <MESSAGE value="Add 09 Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 09 Classes" />
+    <MESSAGE value="Done lirning main themes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done lirning main themes" />
   </component>
 </project>
