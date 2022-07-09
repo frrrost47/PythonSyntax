@@ -69,3 +69,4 @@ def cheeseshop(kind, *arguments, **keywords):
         print(key, ":", value)
 
 cheeseshop("Test", "1", "2", aaa="3", ooo="4", eee="5")
+
